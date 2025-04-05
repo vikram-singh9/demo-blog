@@ -6,7 +6,7 @@ const BlogPosts = () => {
   const posts = [
     {
       id: 1,
-      image: "/images/hero.png",
+      image: "/images/hero.jpg",
       date: "Sunday, 1 Jan 2023",
       title: "UX review presentations",
       description:

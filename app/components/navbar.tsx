@@ -15,7 +15,7 @@ const Navbar = () => {
       <nav className="flex justify-between items-center px-6 py-4 bg-white">
         {/* Logo Section */}
         <div>
-          <h1 className="text-3xl font-bold font-inter">Logo</h1>
+          <h1 className="text-3xl font-bold font-inter">Daily Blogs</h1>
         </div>
 
         {/* Hamburger Menu for Mobile */}
